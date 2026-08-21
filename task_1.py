@@ -9,18 +9,3 @@
 # 4. Your college major
 # ============================================================
 
-
-# Display student's name
-print("Name: Gourav Pandey")
-
-
-# Display student's address
-print("Address: Indore, Madhya Pradesh - 452001")
-
-
-# Display student's telephone number
-print("Telephone: 9876543210")
-
-
-# Display student's college major
-print("College Major: Computer Science and Technology")
